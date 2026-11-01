@@ -6,8 +6,6 @@ DataAgent converts business questions into governed queries, executable analysis
 
 面向数据分析的 Agent：把业务问题转化为受治理的查询、可执行分析与可解释结论。
 
-**Status:** Project scaffold · [Portfolio](https://0x0addc001.github.io/#use-cases)
-
 ## Agent loop
 
 | Stage | Responsibility |
